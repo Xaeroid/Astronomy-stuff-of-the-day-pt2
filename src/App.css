@@ -19,6 +19,7 @@
   margin-top: 60px;
   font-size: 20px;
   margin-bottom: 40px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .expl{
   border: 3px solid black;
@@ -27,6 +28,7 @@
   margin-bottom: 50px;
   transition: 2s ease;
   background-color: rgb(248, 161, 130);
+  padding: 30px;
 }
 .expl:hover{
   transition: 2s ease;
@@ -34,4 +36,8 @@
 }
 .footer{
   color: rgb(45, 3, 83);
+  margin-top: 40px;
+}
+.link{
+  margin-top: 40px;
 }

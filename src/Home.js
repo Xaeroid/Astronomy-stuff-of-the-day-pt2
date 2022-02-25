@@ -33,7 +33,9 @@ getresult();
     <div className='image'>
     <img src={img} width="1000px" height="1000px"></img>
     </div>
+    <div className='link'>
     <a href={img}>photo/video Link</a>
+    </div>
   </div>;
 };
 
